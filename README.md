@@ -14,6 +14,16 @@ Works with [GitHub **Spec Kit**](https://github.com/github/spec-kit): /speckit.s
 
 Use it, fork it, file issues. Make it your team’s source of truth for plugins, themes & headless builds: [constitution.md](https://github.com/soderlind/wordpress-sdd/blob/main/constitution.md)
 
+## Spec-Driven Development (SDD)
+
+-	From “vibe-coding” to structured development: Many AI code tools quickly produce code based on vague descriptions, but the result is often unreliable. Spec-driven development replaces this with a structured process where specifications are the central source of truth.
+-	[**Spec Kit**](https://github.com/github/spec-kit) — a new open-source tool: GitHub has launched Spec Kit, which helps developers use AI tools like GitHub Copilot, Claude Code, and the Gemini CLI in a specification-driven workflow. The tool supports four phases: Specify, Plan, Tasks, and Implement.
+-	Specifications as living artifacts: Instead of static documents, specifications become dynamic and evolve alongside the project. They describe user experiences and desired outcomes, and serve as the basis for technical plans and tasks.
+-	Benefits of clear structure: By giving the AI agent clear specifications, technical plans, and tasks, errors and misunderstandings are reduced. This yields more precise code and makes it easier to iterate and change direction along the way.
+-	Use cases and the future: Spec-driven development is particularly well-suited to new projects, feature expansions in existing systems, and modernization of legacy code. GitHub views specifications as the new source of truth in AI-driven development.
+
+Learn more about Spec-Driven Development With GitHub Spec Kit at https://developer.microsoft.com/blog/spec-driven-development-spec-kit
+
 ## Copyright and License
 
 The [constitution.md](https://github.com/soderlind/wordpress-sdd/blob/main/constitution.md) is copyright 2025 Per Soderlind
