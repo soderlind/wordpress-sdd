@@ -2,6 +2,8 @@
 
 A short, practical guide to running **Spec‑Driven Development (SSD)** with GitHub Spec Kit—plus how to adopt the **WordPress SDD `constitution.md`** as your project’s source of truth.
 
+Learn more by watching [The ONLY guide you'll need for GitHub Spec Kit](https://www.youtube.com/watch?v=a9eR1xsfvHg)
+
 ---
 
 ## Quick Start (≈5 minutes)
