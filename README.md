@@ -1,4 +1,4 @@
-# WordPress SDD
+# WordPress Spec-Driven Development 
 
 Building WordPress products? I just open-sourced a **Spec-Driven Development constitution** for WP. It defines non-negotiables so teams ship faster—and safer: [constitution.md](https://github.com/soderlind/wordpress-sdd/blob/main/constitution.md)
 
