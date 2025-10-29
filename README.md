@@ -23,7 +23,7 @@ Use it, fork it, file issues. Make it your team’s source of truth for plugins,
 -	Use cases and the future: Spec-driven development is particularly well-suited to new projects, feature expansions in existing systems, and modernization of legacy code. GitHub views specifications as the new source of truth in AI-driven development.
 -	Use the [**SSD Quick Start**](https://github.com/soderlind/wordpress-sdd/blob/main/ssd-quick-start.md) to bootstrap Spec Kit, add [constitution.md](https://github.com/soderlind/wordpress-sdd/blob/main/constitution.md), and run the Specify → Plan → Tasks → Implement workflow.
 
-### Learn more 
+### Learn 
 - [Spec-Driven Development With GitHub Spec Kit](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)
 - [Complete Spec-Driven Development Methodology](https://github.com/github/spec-kit/blob/main/spec-driven.md)
 
