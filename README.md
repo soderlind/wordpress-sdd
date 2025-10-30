@@ -21,7 +21,7 @@ Use it, fork it, file issues. Make it your team’s source of truth for plugins,
 -	Specifications as living artifacts: Instead of static documents, specifications become dynamic and evolve alongside the project. They describe user experiences and desired outcomes, and serve as the basis for technical plans and tasks.
 -	Benefits of clear structure: By giving the AI agent clear specifications, technical plans, and tasks, errors and misunderstandings are reduced. This yields more precise code and makes it easier to iterate and change direction along the way.
 -	Use cases and the future: Spec-driven development is particularly well-suited to new projects, feature expansions in existing systems, and modernization of legacy code. GitHub views specifications as the new source of truth in AI-driven development.
--	Use the [**SSD Quick Start**](https://github.com/soderlind/wordpress-sdd/blob/main/ssd-quick-start.md) to bootstrap Spec Kit, add [constitution.md](https://github.com/soderlind/wordpress-sdd/blob/main/constitution.md), and run the Specify → Plan → Tasks → Implement workflow.
+-	Use the [**SSD Quick Start**](https://github.com/soderlind/wordpress-sdd/blob/main/ssd-quick-start.md) to bootstrap Spec Kit, add [constitution.md](https://github.com/soderlind/wordpress-sdd/blob/main/ssd-quick-start.md#add-the-wordpress-sdd-constitution), and run the Specify → Plan → Tasks → Implement workflow.
 
 ### Learn 
 - [Spec-Driven Development With GitHub Spec Kit](https://developer.microsoft.com/blog/spec-driven-development-spec-kit)
